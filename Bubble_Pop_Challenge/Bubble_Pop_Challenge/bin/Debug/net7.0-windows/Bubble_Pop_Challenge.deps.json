@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Bubble_Pop_Challenge/1.0.0": {
+        "runtime": {
+          "Bubble_Pop_Challenge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bubble_Pop_Challenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
