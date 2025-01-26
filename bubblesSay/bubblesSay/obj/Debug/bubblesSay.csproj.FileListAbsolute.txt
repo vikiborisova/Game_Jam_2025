@@ -8,3 +8,13 @@ C:\Users\natgd\Desktop\GGJ '25\bubblesSay\bubblesSay\obj\Debug\bubblesSay.csproj
 C:\Users\natgd\Desktop\GGJ '25\bubblesSay\bubblesSay\obj\Debug\bubblesSay.csproj.CoreCompileInputs.cache
 C:\Users\natgd\Desktop\GGJ '25\bubblesSay\bubblesSay\obj\Debug\bubblesSay.exe
 C:\Users\natgd\Desktop\GGJ '25\bubblesSay\bubblesSay\obj\Debug\bubblesSay.pdb
+C:\Users\natgd\Downloads\Game_Jam_2025-main\Game_Jam_2025-main\bubblesSay\bubblesSay\bin\Debug\bubblesSay.exe.config
+C:\Users\natgd\Downloads\Game_Jam_2025-main\Game_Jam_2025-main\bubblesSay\bubblesSay\bin\Debug\bubblesSay.exe
+C:\Users\natgd\Downloads\Game_Jam_2025-main\Game_Jam_2025-main\bubblesSay\bubblesSay\bin\Debug\bubblesSay.pdb
+C:\Users\natgd\Downloads\Game_Jam_2025-main\Game_Jam_2025-main\bubblesSay\bubblesSay\obj\Debug\bubblesSay.csproj.AssemblyReference.cache
+C:\Users\natgd\Downloads\Game_Jam_2025-main\Game_Jam_2025-main\bubblesSay\bubblesSay\obj\Debug\bubblesSay.Form1.resources
+C:\Users\natgd\Downloads\Game_Jam_2025-main\Game_Jam_2025-main\bubblesSay\bubblesSay\obj\Debug\bubblesSay.Properties.Resources.resources
+C:\Users\natgd\Downloads\Game_Jam_2025-main\Game_Jam_2025-main\bubblesSay\bubblesSay\obj\Debug\bubblesSay.csproj.GenerateResource.cache
+C:\Users\natgd\Downloads\Game_Jam_2025-main\Game_Jam_2025-main\bubblesSay\bubblesSay\obj\Debug\bubblesSay.csproj.CoreCompileInputs.cache
+C:\Users\natgd\Downloads\Game_Jam_2025-main\Game_Jam_2025-main\bubblesSay\bubblesSay\obj\Debug\bubblesSay.exe
+C:\Users\natgd\Downloads\Game_Jam_2025-main\Game_Jam_2025-main\bubblesSay\bubblesSay\obj\Debug\bubblesSay.pdb

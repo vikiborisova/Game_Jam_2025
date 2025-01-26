@@ -1,0 +1,10 @@
+C:\Users\natgd\Desktop\GGJ '25\bubblesSpell\bubblesSpell\bin\Debug\bubblesSpell.exe.config
+C:\Users\natgd\Desktop\GGJ '25\bubblesSpell\bubblesSpell\bin\Debug\bubblesSpell.exe
+C:\Users\natgd\Desktop\GGJ '25\bubblesSpell\bubblesSpell\bin\Debug\bubblesSpell.pdb
+C:\Users\natgd\Desktop\GGJ '25\bubblesSpell\bubblesSpell\obj\Debug\bubblesSpell.csproj.AssemblyReference.cache
+C:\Users\natgd\Desktop\GGJ '25\bubblesSpell\bubblesSpell\obj\Debug\bubblesSpell.Form1.resources
+C:\Users\natgd\Desktop\GGJ '25\bubblesSpell\bubblesSpell\obj\Debug\bubblesSpell.Properties.Resources.resources
+C:\Users\natgd\Desktop\GGJ '25\bubblesSpell\bubblesSpell\obj\Debug\bubblesSpell.csproj.GenerateResource.cache
+C:\Users\natgd\Desktop\GGJ '25\bubblesSpell\bubblesSpell\obj\Debug\bubblesSpell.csproj.CoreCompileInputs.cache
+C:\Users\natgd\Desktop\GGJ '25\bubblesSpell\bubblesSpell\obj\Debug\bubblesSpell.exe
+C:\Users\natgd\Desktop\GGJ '25\bubblesSpell\bubblesSpell\obj\Debug\bubblesSpell.pdb
